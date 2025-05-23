@@ -6,5 +6,7 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
---platform=linux/amd64 libreoffice/libreoffice:headless
---platform=linux/amd64 jodconverter/jodconverter-core:latest
+# --platform=linux/amd64 libreoffice/libreoffice:headless
+# --platform=linux/amd64 jodconverter/jodconverter-core:latest
+
+--platform=linux/amd64 jodconverter/libreoffice
