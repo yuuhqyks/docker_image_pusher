@@ -6,4 +6,4 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-
+--platform=linux/amd64 libreoffice/libreoffice:7.6.5-headless
