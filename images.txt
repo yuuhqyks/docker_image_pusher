@@ -9,4 +9,4 @@
 # --platform=linux/amd64 libreoffice/libreoffice:headless
 # --platform=linux/amd64 jodconverter/jodconverter-core:latest
 
---platform=linux/amd64 jodconverter/libreoffice
+--platform=linux/amd64 ghcr.io/sbraconnier/jodconverter
